@@ -42,9 +42,7 @@ werden kann.
 
 ## Loslegen
 
-Die Schritt-für-Schritt-Einführung – vom ersten Angebot bis zur bezahlten
-Rechnung – steht in der **[Anleitung](Anleitung.md)**. Änderungen und neue
-Funktionen dokumentiert das **[Changelog](CHANGELOG.md)**.
+Die aktuellste Testversion findest du unter [buro-office.de](https://buro-office.de)
 
 ---
 
